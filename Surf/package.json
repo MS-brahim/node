@@ -1,0 +1,26 @@
+{
+  "name": "elegance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "elegance",
+    "crossfit",
+    "fitness",
+    "musculation",
+    "youcode",
+    "Safi",
+    "Maroc",
+    "2020"
+  ],
+  "author": "Mouissi",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}

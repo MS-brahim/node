@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Bbarre pull Up",
+    "discription": "Barre De Traction Musculation Pull Up Bar 500",
+    "image": "barreUp.jpg",
+    "produits": [
+      {
+        "id": 1,
+        "price": "180 DH",
+        "info": [
+          {
+            "id": 1,
+            "kg": "20 kg",
+            "width": "90 Cm",
+            "utiliser": "sjshd ddsj"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Bbarre pull Up",
+    "discription": "Barre De Traction Musculation Pull Up Bar 500",
+    "image": "barSimple.jpeg",
+    "produits": [
+      {
+        "id": 1,
+        "name": "wwww"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Bbarre pull Up",
+    "discription": "Barre De Traction Musculation Pull Up Bar 500",
+    "image": "debz.jpeg",
+    "produits": [
+      {
+        "id": 1,
+        "name": "wwww"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Bbarre pull Up",
+    "discription": "Barre De Traction Musculation Pull Up Bar 500",
+    "image": "debzBarre.jpeg",
+    "produits": [
+      {
+        "id": 1,
+        "name": "wwww"
+      }
+    ]
+  }
+]

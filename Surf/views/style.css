@@ -1,0 +1,37 @@
+nav {
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px 2px gray;
+}
+#homePage{
+    background: url("../img/bg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    align-self: center;
+}
+.contenu-title{
+    width: 300px;
+    height: 100%;
+    margin: auto;
+    margin-top: 30%;
+}
+.col-md-4{
+    margin-top: 50px;
+}
+
+.btn-group{
+    width: 100%;
+}
+.row{
+    margin-top: 60px;
+    background: #a9a9a924;
+}
+.tiProduit{
+    margin-top: 10px;
+}
+footer{
+    bottom: 0;
+    margin-top: 60px;
+}
